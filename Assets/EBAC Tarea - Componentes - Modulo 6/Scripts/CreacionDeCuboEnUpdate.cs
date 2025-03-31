@@ -77,8 +77,6 @@ public class CreacionDeCuboEnUpdate : MonoBehaviour
             _objToSpawn.transform.position = this.transform.position + Random.insideUnitSphere;   //Posicionamos el cubo cerca del padre.
 
             _listaDeCubos.Add(_objToSpawn); //Se agrega el cubo a la lista de cubos.
-
-            int numHijos = this.transform.childCount; //Se almacena el numero de hijos que tiene el padre. (Era para la condicional de limite de cubos)
         }
     }
 }
