@@ -80,7 +80,5 @@ public class CreacionDeCuboEnUpdate : MonoBehaviour
 
             int numHijos = this.transform.childCount; //Se almacena el numero de hijos que tiene el padre.
         }
-
-
     }
 }
