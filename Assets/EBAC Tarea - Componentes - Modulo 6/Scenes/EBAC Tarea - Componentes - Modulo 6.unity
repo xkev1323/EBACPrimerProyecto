@@ -163,6 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa2b915cf75e3d6479200591558c3232, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cubo: {fileID: 2956265223947763601, guid: 2b316cb7af16c684c9593867af02cde7, type: 3}
   limiteDeCubos: 10
 --- !u!1 &200421141
 GameObject:
@@ -549,6 +550,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d61e932dab13914c8bda2ae4d50fa62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cubo: {fileID: 2956265223947763601, guid: 2b316cb7af16c684c9593867af02cde7, type: 3}
 --- !u!4 &916621027
 Transform:
   m_ObjectHideFlags: 0
@@ -608,6 +610,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34d85f9fe5335944a850ba75a41983b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cubo: {fileID: 2956265223947763601, guid: 2b316cb7af16c684c9593867af02cde7, type: 3}
 --- !u!1 &947052160
 GameObject:
   m_ObjectHideFlags: 0
